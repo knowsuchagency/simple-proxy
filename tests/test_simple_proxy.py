@@ -3,5 +3,6 @@
 
 """Tests for `simple_proxy` package."""
 
+
 def test_nothing():
     assert True
